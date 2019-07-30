@@ -26,6 +26,6 @@
 * 0725_2200 新增房屋距离市中心的距离Distance
 * 0729_2200 新增房屋距离最近地铁站的距离subwayDistance
 ## 遇到的问题
-* 如何修改dataframe某一列的问题
+* [如何修改dataframe某一列的问题](https://www.jianshu.com/p/2557a805211f)
 ## source
-  北京地铁经纬度
+  [北京地铁经纬度](https://wenku.baidu.com/view/4f997569c4da50e2524de518964bcf84b8d52d17.html?re=view#)
